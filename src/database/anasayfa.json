@@ -1,0 +1,316 @@
+{
+  "kurumsal": [
+    {
+      "yazi": "1987 yılından beri sektörde hizmet veren ve 1993 yılında AjansCode Komünikasyon Hizmetleri Ltd. Şti. olarak kurumsallaşan ajansımız, kuruluşundan bu yana Türkiye'nin en başarılı firmalarının tanıtım çalışmalarını üstlenmiştir. AjansCode Komünikasyon Hizmetleri olarak; deneyimli kadromuz ve iş prensibi anlayışımızla, firma ve ürün tanıtımlarınızda, farklı ve estetik tasarımları yaratıcı çalışmalara dönüştürür, farklı perspektiflerden iletişim stratejileri geliştirir, uygular ve uygulatırız. Biz, firmanızın ve reklamınızın hedef kitlenize doğru bir şekilde ulaşabilmesi ve etkili olabilmesi için ihtiyacınız olan çalışmayı analiz ediyor ve bu doğrultuda ilerliyoruz. İhtiyaç duyduğunuz; kurumsal kimlik, grafik tasarım, matbaa, web tasarım, medya planlaması, marka danışmanlığı, açık hava reklamları, basın ilanları, stand hazırlıkları ve organizasyon hizmetleriyle A'dan Z'ye tüm çalışmaları en uygun ve kaliteli hizmet anlayışı ile yerine getiriyoruz. Bu doğrultuda; akılda kalıcı, yaratıcı, kaliteli ve güvenilir çözümler sunmak için daima yanınızdayız."
+    }
+  ],
+  "islerimizGenel": [
+    {
+      "id": 1,
+      "title": "Grafik Tasarım",
+      "content": "Grafik tasarım bir mesajı iletmek, bir görseli geliştirmek veya bir düşünceyi görselleştirmek için metnin veya görsellerin algılanabilir ve görülebilir bir düzlemde, iki boyutlu veya üç boyutlu olarak organize edilmesini içeren yaratıcı bir süreçtir. Bu süreçte marka ve firmanızı deneyimli ekibimiz ile hakkettiği en üst noktaya çıkartmak için var gücümüzle yanınızdayız.",
+      "icon": "fas fa-pencil-ruler",
+      "link": "/islerimiz/grafik-tasarim"
+    },
+    {
+      "id": 2,
+      "title": "Web Tasarım & Yazılım",
+      "content": "İşletmenizi veya girişiminizi en iyi şekilde lanse edebileceğiniz, Kurumsal web tasarım ve yazılımlar ajanscode farkı ve tecrubeleri ile hazırlanmaktadır. Hazır değil, size özel websiteleri yapıyoruz. Sizin de Web Yazılım, Tasarım ve Kullanıcı Dostu Profesyonel bir web siteniz olsun. Marka ve firmanıza özel mobil uyumlu yenilikçi bir web sitesi ile sektörünüzde öne geçin.",
+      "icon": "fas fa-laptop",
+      "link": "/islerimiz/web-tasarim-yazilim"
+    },
+    {
+      "id": 3,
+      "title": "Logo & kurumsal Kimlik",
+      "content": "Sizi tanıtacak en iyi içerikler kurumsal kimliğinizden geçer. Önemli olan markaların, ihtiyaçlarını doğru belirlemesi ve marka hayatı'nın her alanın da profesyonel bir ekip klavuzluğunda ilerlemesidir.",
+      "icon": "fas fa-address-card",
+      "link": "/islerimiz/logo-kurumsal-kimlik"
+    },
+    {
+      "id": 4,
+      "title": "Tanıtım Filmi",
+      "content": "Tanıtım filmi müşterilerinizin artmasına ve varolan müşterilerinizin size saygısının artmasını sağlar bu nedenle tanıtım filmi konusunda tecrübeli olan ekibimiz ile dikkatle yanınızdayız..",
+      "icon": "fas fa-video",
+      "link": "/islerimiz/tanitim-filmi"
+    },
+    {
+      "id": 5,
+      "title": "Sosyal Medya",
+      "content": "Markanızın Sosyal Medya Hizmet Yönetimi Danışmanlığı ile Facebook, Twitter, Instagram ve Linkedin sayfalarınızı, sayfa gönderilerinizi, gelen yorumları, sayfanıza gelen mesajları, Google Adwords & Analytics ile ilgili tüm aksiyonları sizin için yapalım. Seo çalışmalarınızda kendisini kanıtlamış stratejilerimiz ile google da en üstlerde yer alarak sektörünüzde en önde olmanın keyfini çıkarın.",
+      "icon": "fas fa-hashtag",
+      "link": "/islerimiz/sosyal-medya"
+    },
+    {
+      "id": 6,
+      "title": "Fotoğraf Çekimlerimiz",
+      "content": "Fotoğraf Çekimi müşterilerinizin artmasına ve varolan müşterilerinizin size saygısının artmasını sağlar bu nedenle tanıtım filmi konusunda tecrübeli olan ekibimiz ile dikkatle yanınızdayız..",
+      "icon": "fas fa-camera",
+      "link": "/islerimiz/fotograf-cekimlerimiz"
+    },
+    {
+      "id": 7,
+      "title": "3D Modelleme",
+      "content": "Ürün tanıtımlarında ve inşaat sektöründe 3D çalışmalara gereksinim duyulmaktadır. Tüm Ürün ve İnşaat sektöründe deneyimli profesyonel ekibimiz ile yıllardır müşterilerimize bu alanda hizmet vermekteyiz. Bu alandaki örnek çalışmalarımızı işlerimiz bölümünden görebilirsiniz.",
+      "icon": "fas fa-cubes",
+      "link": "/islerimiz/3d-modelleme"
+    },
+    {
+      "id": 8,
+      "title": "3D Animasyon",
+      "content": "Ürün tanıtımlarında ve inşaat sektöründe 3D çalışmalara gereksinim duyulmaktadır. Tüm Ürün ve İnşaat sektöründe deneyimli profesyonel ekibimiz ile yıllardır müşterilerimize bu alanda hizmet vermekteyiz. Bu alandaki örnek çalışmalarımızı işlerimiz bölümünden görebilirsiniz.",
+      "icon": "fas fa-film",
+      "link": "/islerimiz/3d-animasyon"
+    }
+  ],
+  "islerimizFiltre": [
+    {
+      "id": 1,
+      "title": "HEPSİ",
+      "filter": "*"
+    },
+    {
+      "id": 2,
+      "title": "GRAFİK TASARIM",
+      "filter": "gt"
+    },
+    {
+      "id": 3,
+      "title": "Web Tasarım",
+      "filter": "wt"
+    },
+    {
+      "id": 4,
+      "title": "Logo",
+      "filter": "lo"
+    },
+    {
+      "id": 5,
+      "title": "Tanıtım FİLMİ",
+      "filter": "tf"
+    },
+    {
+      "id": 6,
+      "title": "Sosyal Medya",
+      "filter": "sm"
+    },
+    {
+      "id": 7,
+      "title": "FOTOĞRAF ÇEKİMLERİ",
+      "filter": "fc"
+    },
+    {
+      "id": 8,
+      "title": "3D Modelleme",
+      "filter": "dm"
+    },
+    {
+      "id": 9,
+      "title": "3D ANİMASYON",
+      "filter": "da"
+    }
+  ],
+  "islerimizDetay": [
+    {
+      "id": 1,
+      "title": "grafikTasarim/akbaba-hirdavat",
+      "filter": "gt",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id": 2,
+      "title": "grafikTasarim/anadolu-hirdavat",
+      "filter": "gt",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id": 3,
+      "title": "webTasarim/frs-tools",
+      "filter": "wt",
+      "link": "https://merdiven.store/",
+      "num": 1,
+      "heightValue": "300px"
+    },
+    {
+      "id": 4,
+      "title": "webTasarim/rico",
+      "filter": "wt",
+      "link": "https://merdiven.store/",
+      "num": 1,
+      "heightValue": "300px"
+    },
+    {
+      "id": 5,
+      "title": "logoKurumsal/mihrabat",
+      "filter": "lo",
+      "link": "",
+      "num": 0,
+      "heightValue": "200px"
+    },
+    {
+      "id": 6,
+      "title": "logoKurumsal/yasin",
+      "filter": "lo",
+      "link": "",
+      "num": 0,
+      "heightValue": "200px"
+    },
+    {
+      "id": 7,
+      "title": "tanitimFilmi/rubikap",
+      "filter": "tf",
+      "link": "",
+      "num": 2,
+      "heightValue": "300px"
+    },
+    {
+      "id": 8,
+      "title": "tanitimFilmi/rico",
+      "filter": "tf",
+      "link": "",
+      "num": 2,
+      "heightValue": "300px"
+    },
+    {
+      "id": 9,
+      "title": "sosyalMedya/foto-1",
+      "filter": "sm",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id":10,
+      "title": "sosyalMedya/foto-2",
+      "filter": "sm",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id": 11,
+      "title": "fotografCekim/foto-19",
+      "filter": "fc",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id": 12,
+      "title": "fotografCekim/foto-20",
+      "filter": "fc",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id":13,
+      "title": "modelleme3d/foto-1",
+      "filter": "dm",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id": 14,
+      "title": "modelleme3d/foto-2",
+      "filter": "dm",
+      "link": "",
+      "num": 0,
+      "heightValue": "300px"
+    },
+    {
+      "id": 15,
+      "title": "animasyon3d/anas-metal",
+      "filter": "da",
+      "link": "",
+      "num": 2,
+      "heightValue": "300px"
+    },
+    {
+      "id": 16,
+      "title": "animasyon3d/rico",
+      "filter": "da",
+      "link": "",
+      "num": 2,
+      "heightValue": "300px"
+    }
+  ],
+  "referanslar": [
+    {
+      "id": 1,
+      "title": "akbaba"
+    },
+    {
+      "id": 2,
+      "title": "akrobat"
+    },
+    {
+      "id": 3,
+      "title": "bosch"
+    },
+    {
+      "id": 4,
+      "title": "efor"
+    },
+    {
+      "id": 5,
+      "title": "evset"
+    },
+    {
+      "id": 6,
+      "title": "frs-makina"
+    },
+    {
+      "id": 7,
+      "title": "merih"
+    },
+    {
+      "id": 8,
+      "title": "metplas"
+    },
+    {
+      "id": 9,
+      "title": "mihrabat"
+    },
+    {
+      "id": 10,
+      "title": "pass"
+    },
+    {
+      "id": 11,
+      "title": "ribattel"
+    },
+    {
+      "id": 12,
+      "title": "yasin"
+    },
+    {
+      "id": 13,
+      "title": "rubikap"
+    },
+    {
+      "id": 14,
+      "title": "rukiye-korkmaz"
+    },
+    {
+      "id": 15,
+      "title": "salcano"
+    },
+    {
+      "id": 16,
+      "title": "sembol-pak"
+    },
+    {
+      "id": 17,
+      "title": "sisli-belediye"
+    },
+    {
+      "id": 18,
+      "title": "simay-kimya"
+    }
+  ]
+}
